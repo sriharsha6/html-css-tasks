@@ -16,7 +16,7 @@ body{
 #menu li{
 	list-style:none;
 	float:right;
-	display:inline:
+	display:inline;
 	color:white;
 	margin-top:10px;
 }
